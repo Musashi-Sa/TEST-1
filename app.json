@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "مدير المال V2",
+    "slug": "financial-life",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0B1120",
+      "resizeMode": "contain"
+    },
+    "android": {
+      "package": "com.musashi.financiallife",
+      "adaptiveIcon": {
+        "backgroundColor": "#0B1120"
+      }
+    }
+  }
+}
